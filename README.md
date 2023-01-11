@@ -5,7 +5,7 @@
 
 This repository is for Issues, Bugs, Feature Requests, etc, for the IBM Community Clouds.
 
-**PLEASE DO NOT** add issues to this repository directly. Please submit your support ticket through the form at: (Put URL here when Sean creates it)
+**PLEASE DO NOT** add issues to this repository directly. Please submit your support ticket through the form at: https://www.ibm.com/community/z/linuxone-open-source-ticketing-form/
 
 The form will create a support ticket which will be routed and tracked to the appropriate resource.
 
