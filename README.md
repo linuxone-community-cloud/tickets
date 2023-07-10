@@ -5,10 +5,10 @@
 
 This repository is for Issues, Bugs, Feature Requests, etc, for the IBM Community Clouds.
 
-UPDATE!!  This github repository is public now, so any communication can be see by the public.  If you feel you would prefer to discuss your issue in private, please email us at linux!us.ibm.com
+UPDATE!!  This github repository is public now, so any communication can be see by the public.  If you feel you would prefer to discuss your issue in private, please email us at linux1@us.ibm.com
 Also, for any IBMers using this github, this is a reminder that it is public and not to post any IBM Confidential information.
 
-**PLEASE DO NOT** add issues to this repository directly. Please submit your support ticket through the form at: https://www.ibm.com/community/z/linuxone-open-source-ticketing-form/
+**PLEASE DO NOT** Open issues to this repository directly. Please submit your support ticket through the form at: https://www.ibm.com/community/z/linuxone-open-source-ticketing-form/ and communication can continue directly on github or email. 
 
 The form will create a support ticket which will be routed and tracked to the appropriate resource.
 
